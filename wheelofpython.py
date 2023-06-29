@@ -181,7 +181,7 @@ while True:
             move = requestPlayerMove(player, category, guessed)
             if move == 'EXIT': 
                 print('Until next time!')
-                break
+                quit()
             elif move == 'PASS': 
                 print('{} passes'.format(player.name))
             elif len(move) == 1: 
@@ -242,4 +242,10 @@ while True:
                 
     else:
         print('Nobody won. The phrase was {}'.format(phrase))
+        again = input('Would you like to play again? (Y/N) ')
+        if again.upper() == "Y" or again == "yes" or again == "Yes":
+            continue
+        else:
+            print('Thank you for playing! Goodbye!') 
+            break
 

@@ -114,7 +114,7 @@ while True:
 
     num_human = getNumberBetween('How many human players? ', 0, 10)
 
-    human_players = [WOFHumanPlayer(input('Enter the name for player #{} '.format(i+1))) for i in range(num_human)]
+    human_players = [WOFHumanPlayer(input('Enter the name for player #{}: '.format(i+1))) for i in range(num_human)]
 
     num_computer = getNumberBetween('How many computer players? ', 0, 10)
 

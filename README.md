@@ -1,4 +1,4 @@
-# Wheel-of-Python ![Static Badge](https://img.shields.io/badge/build-Python3-green)
+# Wheel of Python ![Static Badge](https://img.shields.io/badge/build-Python3-green)
 A simple wheel of fortune like game built with python in a CLI and features practical use of JSON data. 
 To begin select the number of human players and computer players in the game. Computer players feature a difficulty setting
 based on the probability of guessing letters in the frequency they appear in the English language. 

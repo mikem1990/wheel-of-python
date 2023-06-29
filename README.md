@@ -7,3 +7,12 @@ Players take turns spinning the wheel whose outcome is randomly retrieved from a
 The player to complete the phrase wins!/
 
 Here are some screenshots of the program in action:
+
+![wop1](https://github.com/mikem1990/wheel-of-python/assets/112135737/6bb2d10a-fbd0-44e5-a2db-d415149d4e26)
+
+![wop2](https://github.com/mikem1990/wheel-of-python/assets/112135737/0b36e880-0853-40da-b35c-78cee8b4d6cc)
+
+![wop3](https://github.com/mikem1990/wheel-of-python/assets/112135737/14546d63-858b-4b76-b51e-ef06f3a8b7ac)
+
+
+
